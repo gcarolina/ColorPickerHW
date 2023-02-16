@@ -11,6 +11,7 @@
 		F12670E7299D897900CBC01E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12670E6299D897900CBC01E /* ContentView.swift */; };
 		F12670E9299D898100CBC01E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F12670E8299D898100CBC01E /* Assets.xcassets */; };
 		F12670EC299D898100CBC01E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F12670EB299D898100CBC01E /* Preview Assets.xcassets */; };
+		F12670F3299E323700CBC01E /* RoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12670F2299E323700CBC01E /* RoundedRectangle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F12670E6299D897900CBC01E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F12670E8299D898100CBC01E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F12670EB299D898100CBC01E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F12670F2299E323700CBC01E /* RoundedRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedRectangle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F12670E4299D897900CBC01E /* ColorPickerHWApp.swift */,
 				F12670E6299D897900CBC01E /* ContentView.swift */,
+				F12670F2299E323700CBC01E /* RoundedRectangle.swift */,
 				F12670E8299D898100CBC01E /* Assets.xcassets */,
 				F12670EA299D898100CBC01E /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F12670E7299D897900CBC01E /* ContentView.swift in Sources */,
+				F12670F3299E323700CBC01E /* RoundedRectangle.swift in Sources */,
 				F12670E5299D897900CBC01E /* ColorPickerHWApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
